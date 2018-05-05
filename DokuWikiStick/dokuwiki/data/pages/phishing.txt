@@ -1,0 +1,138 @@
+======Introduction======
+Phishing is one of the most common types of social engineering attacks. Phishing is most commonly defined as "a broadly launched social engineering attack in which an electronic identity is misrepresented in an attempt to trick individuals into revealing personal credentials that can be used fraudulently against them"((“Four Steps to Effectively Protecting Your Organization from Phishing Attacks.” Cyveillance, Jan. 2015.)). However, phishing in the past few years has evolved to beyond credential theft. Phishing can now be utilized by attackers to spread malicious software, compromise business networks, etc. 
+
+======Modern Statistics======
+Phishing remains as the most popular technique for cyber criminals in the past few years. Various types of phishing attacks such as email or phone based phishing are cheaper then other methods of cyber attacks. Additionally, phishing provides success rates not commonly seen with other methods, which leads to increased use by attackers. 
+
+=====Attempt Rate=====
+The 2018 "State of the Phish" report released by Wombat Security indicated that 76 percent of organizations experienced phishing attacks in 2017. Furthermore, a majority of information security professionals indicate that phishing attacks are either trending upwards or at least remaining the same ((“2018 State of the Phish.” Wombat Security, 2018.)). 
+
+[{{wiki:wombat_phish_trends.png|Phishing Trends in 2018 ((“2018 State of the Phish.” Wombat Security, 2018.))}}]
+
+
+Spear phishing has also posed a massive threat to organizations, with 53 percent of organizations reporting spear phishing attacks in 2018. Although this is a 13 percent decrease from 2017, this attack still is extremely significant. Trends also show that spear phishing seems to affect more companies earlier during the year. 
+
+[{{wiki:wombat_spear_phish.png|Spear Phish Attempts by Quarter 2018 ((“2018 State of the Phish.” Wombat Security, 2018.))}}]
+
+Another specialized type of phishing, Business Email Compromise (BEC) also had significant impact in 2017. Symantec reported that approximately 8000 businesses were targeted by BEC, with an average of 5 BEC emails sent to per organization in a month ((Nahorney, Ben. “ISTR Email Threats 2017.” Symantec, Oct. 2017.)). Furthermore, trends show that BEC attacks increased every month over the year 2017, with massive spikes in detection from June to July ((Remorin, Lord, et al. “Tracking Trends in Business Email Compromise (BEC) Schemes.” Trend Micro, 2018.)).
+
+
+[{{wiki:bectrends.png|BEC Attempts Detected in 2017 ((Remorin, Lord, et al. “Tracking Trends in Business Email Compromise (BEC) Schemes.” Trend Micro, 2018.))}}]
+  
+
+To combat detection, attackers also seem to be using unique domains. Studies done by APWG show that an average of 60,000 unique phishing domains were detected each month in just quarter 3 (July to September) of 2017. These attackers also attempted to impersonate an average of 300 unique companies/brands during this same period((
+“Phishing Activity Trends Report 3rd Quarter 2017.” APWG, 27 Feb. 2018.)).
+
+Phishing has also been increasingly used to deliver malware to unsuspecting users and businesses. Studies show that in 2017, malware infection seemed to be the dominant purpose in phishing attempts ((“2018 State of the Phish.” Wombat Security, 2018.)). Other studies have shown users are more than twice as likely to be infected by malware through phishing rather than through an exploit kit ((Nahorney, Ben. “ISTR Email Threats 2017.” Symantec, Oct. 2017.)). Reports have also shown that almost 92.4 percent of malware infection comes through email phishing attempts ((“2018 Data Breach Investigations Report 11th Edition.” Verizon, 2018.)).
+
+[{{wiki:wombat_malware.png|Phishing Malware vs Other Uses ((“2018 State of the Phish.” Wombat Security, 2018.))}}] 
+[{{wiki:verizon_malware.png|Malware Infection Vector ((“2018 Data Breach Investigations Report 11th Edition.” Verizon, 2018.))}}]
+
+=====Success Rate=====
+One of the main reasons for the high attempt rate of phishing attacks has been the relative success rate the attacks produce. Experiments conducted by Wombat Security showed that there were several types of phishing emails where click rate was over 80 percent. These include online shopping security updates, corporate voicemail, and corporate email. Furthermore, the same report showed that phishing templates containing password resets and evacuation plans had a nearly 100 percent click rate. 
+
+In real world applications, phishing attacks still see significant results. Studies have shown that a majority of employees who have been targeted with spear phishing attacks fall victim to those attacks. Furthermore, internal IT personnel believe most employees if targeted would become victims of phishing attacks ((“Clicking With The Enemy.” AlienVault, www.alienvault.com/blogs/security-essentials/clicking-with-the-enemy.)). 
+
+[{{wiki:alienvault_ceo.png|Percentage of targets that fall victim to CEO phishing ((“Clicking With The Enemy.” AlienVault, www.alienvault.com/blogs/security-essentials/clicking-with-the-enemy.))}}]
+
+======Reasons For Effectiveness======
+
+There are several factors that explain the high success rate of phishing attacks. As phishing attacks have gotten highly sophisticated over the years, it has become much harder to detect and prevent. Having effective prevention also dictates that end users must be constantly updated on their knowledge of threats, which is not always the case. Phishing attacks also become more effective when they [[#Manipulating Trust|manipulate trust]], [[#Crafting Attacks to Demographics|target specific demographics]], and [[#Breaching Security Measures|breach previously established security measures]]. 
+
+=====Manipulating Trust=====
+
+One measure phishing attacks often take to gain effectiveness is breaching trust. This can mean manipulating implicit trust to deliver malicious content or utilizing stolen credentials to increase impersonation effectiveness. Any one of these techniques could lead to an overall increase in phishing effectiveness. 
+
+====Implicit Trust====
+As the web grows, users often do not have the time to screen every source or website they visit. Furthermore, many websites utilize third party ad agencies, which users cannot screen themselves. Therefore, users rely on implicit trust when utilizing web services, trusting the main hosting service to screen all third party sub host services. However, the rapid increase of implicit trust in web services has provided a massive increase in attack surface for phishing, while making it harder for the user to know they are being attacked ((Kumar, Deepak, et al. “Security Challenges in an Increasingly Tangled Web.” Proceedings of the 26th International Conference on World Wide Web - WWW 17, 2017, doi:10.1145/3038912.3052686.)). One example of a phishing attack that manipulates implicit trust is the angler exploit. Angler works by injecting malicious scripts into a legitimate host website and redirecting unsuspecting victims into malicious third party hosts. Because Angler worked by hijacking legitimate websites, it was extremely effective in manipulating users ((Joe. “A Closer Look at the Angler Exploit Kit.” Sophos News, 23 Feb. 2018, news.sophos.com/en-us/2015/07/21/a-closer-look-at-the-angler-exploit-kit/.)). Angler's effectiveness can be seen with its popularity in attackers, with increased attacks happening throughout 2015. The success of Angler shows that violating implicit trust is extremely effective in phishing attacks.  
+
+[{{wiki:angler_detection.png|Detection of Angler Exploit in 2015 ((Joe. “A Closer Look at the Angler Exploit Kit.” Sophos News, 23 Feb. 2018, news.sophos.com/en-us/2015/07/21/a-closer-look-at-the-angler-exploit-kit/.))}}]
+
+
+====Utilization of Valid Credentials====
+
+Phishing attacks often increase in effectiveness when utilizing valid credentials obtained through other attacks.The Home Depot Data Breach in 2014 provided attackers with substantial amounts of personal information. Valid credentials such as emails that could not be immediately used were sold to other attackers for use in further phishing attacks ((Hawkins, Brett. “Case Study: The Home Depot Data Breach.” SANS Institute InfoSec Reading Room, Jan. 2015.)).     
+
+This type of trust manipulation can also be seen in Business Email Compromise attacks (BEC), where attackers impersonate known leadership staff in their phishing attempts. Because users are more willing to trust members of their own organization, these attacks are extremely successful. These attacks are so prevalent that an estimated $9.1 billion dollars could be lost in 2018 due to BEC ((“Paradigm Shifts.” Security Technology Evolves With Endpoints - Security News - Trend Micro USA, www.trendmicro.com/vinfo/us/security/research-and-analysis/predictions/2018.)).
+
+[{{wiki:bec_loss.png | Damages caused by BEC ((“Paradigm Shifts.” Security Technology Evolves With Endpoints - Security News - Trend Micro USA, www.trendmicro.com/vinfo/us/security/research-and-analysis/predictions/2018.))}}]  
+
+=====Crafting Attacks to Demographics===== 
+
+Phishing attacks also craft attacks based on demographics targeted. Studies show that victim demographics such as age, gender, etc. can affect how likely the victim is to fall for a phishing attack ((Oliveira, Daniela, et al. “Dissecting Spear Phishing Emails for Older vs Young Adults.” Proceedings of the 2017 CHI Conference on Human Factors in Computing Systems - CHI 17, 2017, doi:10.1145/3025453.3025831.)). By crafting specific phishing attacks to specific demographics, attackers see higher success rates vs. sending one message to all victims. Attackers can also utilize demographic information to further enhance the effectiveness of tailor crafted spear phishing attacks. 
+
+[{{wiki:spear_phish_demo.png|Trends ((Oliveira, Daniela, et al. “Dissecting Spear Phishing Emails for Older vs Young Adults.” Proceedings of the 2017 CHI Conference on Human Factors in Computing Systems - CHI 17, 2017, doi:10.1145/3025453.3025831.))}}]   
+[{{wiki:spear_phish_demo2.png|Trends ((Oliveira, Daniela, et al. “Dissecting Spear Phishing Emails for Older vs Young Adults.” Proceedings of the 2017 CHI Conference on Human Factors in Computing Systems - CHI 17, 2017, doi:10.1145/3025453.3025831.)).}}]
+
+Occupation can also be used as a demographic to craft more effective phishing attacks. Studies show that students are more susceptible to certain kinds of phishing attacks, with email clones having the most effectiveness ((Andric, Jakov, et al. “Analysis of Phishing Attacks against Students.” 2016 39th International Convention on Information and Communication Technology, Electronics and Microelectronics (MIPRO), 2016, doi:10.1109/mipro.2016.7522363.)).
+
+=====Breaching Security Measures===== 
+
+Phishing attacks can be much more effective if they can impersonate security measures. One attack measure has been impersonating SSL certificates or obtaining false SSL certificates. When users encounter websites with HTTPS, they generally assume that the website is secure. Attackers have been known to generate or impersonate fake SSL certificates to allow their website to be HTTPS encrypted. These malicious websites can later be used as redirects or put in emails to steal privileged information or deliver malicious payloads. Furthermore, attackers can use phishing techniques such as impersonating websites in conjunction with fake certificates. This provides another layer of legitimacy to their attack, allowing more effective targeting ((Noem, Diana. “HTTPS: A Phishing Attack in a Network.”)).  
+
+======Traditional Phishing Attacks======
+
+Many traditional phishing attacks take the form of email attachments or links. These mails are made to impersonate legitimate businesses, other valid users, etc. Once opened, these emails often prompt the user to enter personal information, download malicious attachments, etc. Traditional email attacks often do not have the complexity of specialized attacks such as Business Email Compromise, spear phishing, etc. Even though these attacks utilize only simple email schemes, they differ by requested user action. Some attacks are exist to gather [[#Information Gathering Attacks|personal information]], while others contain [[#Malicious Attachments|malicious attachments]]. 
+
+=====Information Gathering Attacks=====
+
+Information gathering attacks are an extremely common form of phishing attacks. The attacker will often impersonate a legitimate business and have victims enter their information into fake web-forms. This type of attack is not always specialized, as attackers seek to spam emails out without discerning whether the victim even uses the legitimate service that the attacker is impersonating. 
+
+One of the most common attacks is a fake email impersonating Dropbox, which has victims enter their Dropbox account information to be later used by the attacker ((Ellis, Matt Leipham. “Email Phishing, Part 3: Examples, Real-Life Scams, and Caveats.” CertifID, 5 Jan. 2018, certifid.com/email-phishing-part-3-examples-real-life-scams-caveats/.)): 
+
+[{{wiki:dropbox.png|Dropbox Phishing Attack}}]
+
+=====Malicious Attachments=====
+
+Another common form of the phishing attack is embedding malicious attachments in an email. The attacker will try to impersonate a trusted user or source and have the victim download a document. Once the document is opened (most likely a Microsoft office document), macros are executed on the victim computer which run malicious code. 
+
+One such example of this attack is an attacker impersonating DocuSign, urging victims that they must download and sign an important document which contains malicious macros((Ellis, Matt Leipham. “Email Phishing, Part 3: Examples, Real-Life Scams, and Caveats.” CertifID, 5 Jan. 2018, certifid.com/email-phishing-part-3-examples-real-life-scams-caveats/.)): 
+
+
+[{{wiki:docusign.png|DocuSign Phishing Attack}}]
+
+=====Advanced Methods=====
+
+Traditional phishing attacks can also be supplemented by more advanced deception techniques to increase effectiveness. In 2016, researchers demonstrated an advanced phishing toolkit that had a 97 percent success rate. This phishing toolkit utilized advanced techniques such as multiple site generation, false authentication etc ((Zhao, Rui, et al. “The Highly Insidious Extreme Phishing Attacks.” 2016 25th International Conference on Computer Communication and Networks (ICCCN), 2016, doi:10.1109/icccn.2016.7568582.)). These advanced phishing methods allow the attacker to establish enhanced trust with the user, which in turn leads to a more effective attack. 
+
+An example of an advanced phishing attack can be seen by one flagged by UC Berkley. In this phishing email, attackers impersonated UC Berkley's library service through a fake email and a link to a fake website. What made this attack so effective was that the link contained a redirect to a malicious site to log user information, but was made to look like an actual UC Berkley authentication page ((“Phishing Example: Library Account.” Account Monitoring and Management Guideline | Information Security and Policy, security.berkeley.edu/news/phishing-example-library-account-0.)). 
+
+[{{wiki:berkley.png|Phishing Attack Impersonating Authentication}}] 
+
+======Phishing Attack Variations======
+
+In the past few years, phishing attacks have grown in sophistication. Many attacks now utilize highly advanced methods for deception. Furthermore, attacks that compromise businesses have grown with the advent of the [[#Business Email Compromise|Business Email Compromise attack]]. Other forms of phishing have also grown popular, such as [[#Spear Phishing|spear phishing or whaling]]. [[#Social Media Phishing|Social media attacks]] have also started seeing more popularity with attackers due to the fact that more victims can be reached in a massive scale. 
+
+=====Spear Phishing=====
+
+Spear phishing attacks are more specialized versions of traditional phishing attacks. In spear phishing, the attacker attempts to use personalized information against the victim to increase success rate. Information used may be what business the victim works in, the bank the victim uses, etc. Spear phishing attacks target specific users rather then blanket victim lists with sets of specific information. Many times, spear phishing attacks combine other advanced methods such as redirection, spoofing, etc. to further mask malicious intent((“SPEAR-PHISHING ATTACKS WHY THEY ARE SUCCESSFUL AND HOW TO STOP THEM.” Fireeye , 2016.)). Spear phishing Attacks can also target leadership in corporations. This variation of the attack is known as "whaling".
+
+[{{wiki:spear.png|Spear Phishing Attack that Utilizes Victim Bank Information}}]
+
+
+
+=====Business Email Compromise=====
+
+Business email compromise is a specialized form of spear phishing that attacks corporations. Attackers often impersonate business leadership or other critical components to persuade employees into initiating harmful actions on their own systems. BEC attacks are usually crafted to get victim employees to transfer large sums of company money into the attackers accounts ((“Internet Crime Complaint Center (IC3) | Business E-Mail Compromise E-Mail Account Compromise The 5 Billion Dollar Scam.” Internet Crime Complaint Center (IC3) | About Us, www.ic3.gov/media/2017/170504.aspx.)).  
+
+BEC attacks often have attackers impersonating CEOs, CFOs, or foreign business partners. Attackers have also been known to impersonate internal legal or HR services. These emails often contain instructions to wire sums of money or contain specialized exploit kits for information gathering such as keyloggers ((Remorin, Lord, et al. “Tracking Trends in Business Email Compromise (BEC) Schemes.” Trend Micro, 2018.)). 
+
+[{{wiki:becexample.png|Example BEC attack. Attacker attempts to impersonate the VP of another Corporation. Attached is a malicious file.}}]
+
+=====Social Media Phishing=====
+
+Phishing attacks involving social media is a fairly new occurrence. However, these attacks have grown in popularity as they are very effective. The effectiveness of social media phishing can be attributed to many factors. Victims often develop habits on social media that are repeated daily. Attackers leverage this fact by sending falsified versions of social media messages that have them preform actions they normally preform. Victims often send their information before they realize that the message is falsified. Furthermore, users develop a trust of social media as they use the service constantly. Users might be less vigilant responding to messages or preforming actions on social media versus preforming actions over email ((Frauenstein, Edwin D., and Stephen V. Flowerday. “Social Network Phishing: Becoming Habituated to Clicks and Ignorant to Threats?” 2016 Information Security for South Africa (ISSA), 2016, doi:10.1109/issa.2016.7802935.)). 
+
+Impersonations are a common social media phishing attack. Attackers impersonate legitimate services or users on those services to have victims preform harmful actions such as sending account information. Studies show that most impersonation attacks are carried over the Facebook platform ((“SOCIAL ENGINEERING IN THE SOCIAL MEDIA AGE: TOP FRAUDULENT ACCOUNT & IMPERSONATOR TACTICS.” Zero Fox, 2016.)).
+
+[{{wiki:socialmedia.png|Social Media Impersonation Statistics ((“SOCIAL ENGINEERING IN THE SOCIAL MEDIA AGE: TOP FRAUDULENT ACCOUNT & IMPERSONATOR TACTICS.” Zero Fox, 2016.))}}]
+
+One common type of attack is verification phishing. In this attack, an attacker fakes a legitimate verification service. Once a user sends their account information for verification, these credentials are stolen by the attacker ((“SOCIAL ENGINEERING IN THE SOCIAL MEDIA AGE: TOP FRAUDULENT ACCOUNT & IMPERSONATOR TACTICS.” Zero Fox, 2016.)).  
+
+
+[{{wiki:verify.png|Verification Phishing}}]
+
+Another common type of attack is known as Angler phishing, or support impersonation. Attackers will impersonate customer support over social media. They attempt to get users to send valid credentials to the services they are impersonating, leading to credential theft. Often times, attackers will impersonate money transfer services or banks for immediate profit ((“Fraudulent Social Media Accounts Continue to Phish for Banking Credentials.” Proofpoint, 16 May 2017, www.proofpoint.com/us/threat-insight/post/fraudulent-social-media-accounts-continue-phish-banking-credentials.)). 
+
+[{{wiki:angler.png|Examples of angler phishing. In one instance, an attacker impersonates a banking service((“SOCIAL ENGINEERING IN THE SOCIAL MEDIA AGE: TOP FRAUDULENT ACCOUNT & IMPERSONATOR TACTICS.” Zero Fox, 2016.)). In another, Paypal is impersonated((“Fraudulent Social Media Accounts Continue to Phish for Banking Credentials.” Proofpoint, 16 May 2017, www.proofpoint.com/us/threat-insight/post/fraudulent-social-media-accounts-continue-phish-banking-credentials.)). In both instances, the attacker attempts a credential theft attack}}]
+======References======

@@ -1,0 +1,30 @@
+1519863430	::1	C	social_engineering	ym	created		10009
+1519863432	127.0.0.1	E	social_engineering		external edit		0
+1519992873	::1	E	social_engineering	ym	[Spear Phishing] 		-23
+1519992984	::1	E	social_engineering	ym	[Spear Phishing] 		22
+1519993654	::1	E	social_engineering	ym	[Anglr Phishing] 		227
+1519994029	::1	E	social_engineering	ym	[Angler Phishing] 		259
+1519994057	::1	E	social_engineering	ym	[Angler Phishing] 		61
+1519994277	::1	E	social_engineering	ym	[Angler Phishing] 		479
+1519994754	::1	E	social_engineering	ym	[Business Email Compromise] 		427
+1519995044	::1	E	social_engineering	ym	[Business Email Compromise] 		692
+1519995068	::1	E	social_engineering	ym			-15
+1519995140	::1	E	social_engineering	ym	[Phishing] 		235
+1519995208	::1	E	social_engineering	ym	[Phishing] 		75
+1519995461	::1	E	social_engineering	ym	[Business Email Compromise] 		46
+1519996233	::1	E	social_engineering	ym	[Physical Methods] 		413
+1519996353	::1	E	social_engineering	ym	[Physical Methods] 		186
+1519996504	::1	E	social_engineering	ym	[Physical Methods] 		420
+1519996536	::1	E	social_engineering	ym	[Physical Methods] 		88
+1519997206	::1	E	social_engineering	ym	[Physical Methods] 		940
+1519997285	::1	E	social_engineering	ym	[Impersonation] 		0
+1519997340	::1	E	social_engineering	ym	[Spear Phishing] 		31
+1519997365	::1	E	social_engineering	ym			-29
+1519998646	::1	E	social_engineering	ym	[Phone Methods] 		109
+1519999167	::1	E	social_engineering	ym	[Phishing] 		744
+1520000136	::1	E	social_engineering	ym	[Phone Methods] 		573
+1520000280	::1	E	social_engineering	ym	[Phone Methods] 		175
+1520000656	::1	E	social_engineering	ym	[Mitigation] 		957
+1520000988	::1	E	social_engineering	ym	[Mitigation] 		319
+1520001100	::1	E	social_engineering	ym	[Mitigation] 		234
+1525424516	::1	E	social_engineering	ym	[Goals] 		-1

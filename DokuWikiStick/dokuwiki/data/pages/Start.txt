@@ -1,0 +1,30 @@
+~~NOTOC~~
+=====Social Engineering Wiki=====
+
+This wiki is a collection of resources and information on social engineering in the information security field. Pages in this wiki include an overview of Social Engineering, phishing, and mitigation. Resources include links to books and research relating to social engineering. 
+
+====Resources in Social Engineering====
+
+===Books===
+
+[[https://www.amazon.com/Social-Engineering-Art-Human-Hacking/dp/0470639539|{{wiki:social_engineering_book.png }}]]  
+
+[[https://www.amazon.com/The-Art-Deception-Controlling-Security/dp/076454280X|{{wiki:art_of_deception.png }}]]
+
+
+===Overviews===
+
+[[https://www.social-engineer.org/framework/general-discussion/]]
+
+[[https://en.wikipedia.org/wiki/Social_engineering_(security)]]
+
+[[https://www.proofpoint.com/us/threat-insight/threat-reports]]
+
+[[https://www.cisco.com/c/en/us/products/security/security-reports.html]]
+
+[[https://www.trendmicro.com/vinfo/us/security/research-and-analysis/threat-reports]]
+
+====Pages in This Wiki====
+[[Social Engineering]]
+
+[[Phishing]]

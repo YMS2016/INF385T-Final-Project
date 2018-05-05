@@ -1,0 +1,186 @@
+[Tue Feb 20 19:43:46.796276 2018] [mpm_winnt:notice] [pid 1720:tid 696] AH00455: Apache/2.4.25 (Win32) PHP/5.6.30 configured -- resuming normal operations
+[Tue Feb 20 19:43:46.796276 2018] [mpm_winnt:notice] [pid 1720:tid 696] AH00456: Apache Lounge VC11 Server built: Dec 20 2016 13:02:04
+[Tue Feb 20 19:43:46.796276 2018] [core:notice] [pid 1720:tid 696] AH00094: Command line: 'mapache.exe -d C:/Users/YMS/Desktop/DokuWikiStick/server'
+[Tue Feb 20 19:43:46.796276 2018] [mpm_winnt:notice] [pid 1720:tid 696] AH00418: Parent: Created child process 3644
+[Tue Feb 20 19:43:47.102513 2018] [mpm_winnt:notice] [pid 3644:tid 636] AH00354: Child: Starting 64 worker threads.
+[Tue Feb 20 19:43:47.915128 2018] [access_compat:error] [pid 3644:tid 1164] [client ::1:58461] AH01797: client denied by server configuration: C:/Users/YMS/Desktop/DokuWikiStick/dokuwiki/data/security.png, referer: http://localhost:8800/install.php
+[Tue Feb 20 19:47:11.409840 2018] [access_compat:error] [pid 3644:tid 1180] [client ::1:58475] AH01797: client denied by server configuration: C:/Users/YMS/Desktop/DokuWikiStick/dokuwiki/data/security.png, referer: http://localhost:8800/install.php
+[Tue Feb 20 19:47:59.731590 2018] [access_compat:error] [pid 3644:tid 1180] [client ::1:58485] AH01797: client denied by server configuration: C:/Users/YMS/Desktop/DokuWikiStick/dokuwiki/data/security.png, referer: http://localhost:8800/doku.php?id=wiki:welcome&do=admin
+[Wed Feb 21 23:32:21.783940 2018] [core:warn] [pid 3604:tid 612] AH00098: pid file C:/Users/YMS/Desktop/UT/Homework/SPRING 2018/INF385T/DokuWikiStick/server/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Feb 21 23:32:22.063043 2018] [mpm_winnt:notice] [pid 3604:tid 612] AH00455: Apache/2.4.25 (Win32) PHP/5.6.30 configured -- resuming normal operations
+[Wed Feb 21 23:32:22.063043 2018] [mpm_winnt:notice] [pid 3604:tid 612] AH00456: Apache Lounge VC11 Server built: Dec 20 2016 13:02:04
+[Wed Feb 21 23:32:22.063043 2018] [core:notice] [pid 3604:tid 612] AH00094: Command line: 'mapache.exe -d C:/Users/YMS/Desktop/UT/Homework/SPRING 2018/INF385T/DokuWikiStick/server'
+[Wed Feb 21 23:32:22.096598 2018] [mpm_winnt:notice] [pid 3604:tid 612] AH00418: Parent: Created child process 7884
+[Wed Feb 21 23:32:22.417183 2018] [mpm_winnt:notice] [pid 7884:tid 680] AH00354: Child: Starting 64 worker threads.
+[Wed Feb 21 23:33:10.790260 2018] [access_compat:error] [pid 7884:tid 1180] [client ::1:56503] AH01797: client denied by server configuration: C:/Users/YMS/Desktop/UT/Homework/SPRING 2018/INF385T/DokuWikiStick/dokuwiki/data/security.png, referer: http://localhost:8800/doku.php?id=start&do=admin
+[Thu Feb 22 01:38:11.864596 2018] [core:warn] [pid 10312:tid 636] AH00098: pid file C:/Users/YMS/Desktop/UT/Homework/SPRING 2018/INF385T/DokuWikiStick/server/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Feb 22 01:38:11.894679 2018] [mpm_winnt:notice] [pid 10312:tid 636] AH00455: Apache/2.4.25 (Win32) PHP/5.6.30 configured -- resuming normal operations
+[Thu Feb 22 01:38:11.894679 2018] [mpm_winnt:notice] [pid 10312:tid 636] AH00456: Apache Lounge VC11 Server built: Dec 20 2016 13:02:04
+[Thu Feb 22 01:38:11.894679 2018] [core:notice] [pid 10312:tid 636] AH00094: Command line: 'mapache.exe -d C:/Users/YMS/Desktop/UT/Homework/SPRING 2018/INF385T/DokuWikiStick/server'
+[Thu Feb 22 01:38:12.064142 2018] [mpm_winnt:notice] [pid 10312:tid 636] AH00418: Parent: Created child process 12260
+[Thu Feb 22 01:38:12.380497 2018] [mpm_winnt:notice] [pid 12260:tid 700] AH00354: Child: Starting 64 worker threads.
+[Thu Feb 22 01:45:01.652224 2018] [core:warn] [pid 12708:tid 604] AH00098: pid file C:/Users/YMS/Desktop/UT/Homework/SPRING 2018/INF385T/DokuWikiStick/server/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Feb 22 01:45:01.698372 2018] [mpm_winnt:notice] [pid 12708:tid 604] AH00455: Apache/2.4.25 (Win32) PHP/5.6.30 configured -- resuming normal operations
+[Thu Feb 22 01:45:01.698372 2018] [mpm_winnt:notice] [pid 12708:tid 604] AH00456: Apache Lounge VC11 Server built: Dec 20 2016 13:02:04
+[Thu Feb 22 01:45:01.698874 2018] [core:notice] [pid 12708:tid 604] AH00094: Command line: 'mapache.exe -d C:/Users/YMS/Desktop/UT/Homework/SPRING 2018/INF385T/DokuWikiStick/server'
+[Thu Feb 22 01:45:01.757533 2018] [mpm_winnt:notice] [pid 12708:tid 604] AH00418: Parent: Created child process 12208
+[Thu Feb 22 01:45:02.075402 2018] [mpm_winnt:notice] [pid 12208:tid 712] AH00354: Child: Starting 64 worker threads.
+[Thu Feb 22 01:45:14.863206 2018] [access_compat:error] [pid 12208:tid 1180] [client ::1:60789] AH01797: client denied by server configuration: C:/Users/YMS/Desktop/UT/Homework/SPRING 2018/INF385T/DokuWikiStick/dokuwiki/data/security.png, referer: http://localhost:8800/doku.php?id=start&do=admin
+[Thu Feb 22 01:45:20.717676 2018] [access_compat:error] [pid 12208:tid 1180] [client ::1:60790] AH01797: client denied by server configuration: C:/Users/YMS/Desktop/UT/Homework/SPRING 2018/INF385T/DokuWikiStick/dokuwiki/data/security.png, referer: http://localhost:8800/doku.php?id=start&do=admin
+[Thu Feb 22 01:45:20.805773 2018] [access_compat:error] [pid 12208:tid 1188] [client ::1:60791] AH01797: client denied by server configuration: C:/Users/YMS/Desktop/UT/Homework/SPRING 2018/INF385T/DokuWikiStick/dokuwiki/data/security.png, referer: http://localhost:8800/doku.php?id=start&do=admin
+[Thu Feb 22 01:45:31.310059 2018] [access_compat:error] [pid 12208:tid 1180] [client ::1:60792] AH01797: client denied by server configuration: C:/Users/YMS/Desktop/UT/Homework/SPRING 2018/INF385T/DokuWikiStick/dokuwiki/data/security.png, referer: http://localhost:8800/doku.php?id=start&do=admin
+[Thu Feb 22 01:45:57.072784 2018] [access_compat:error] [pid 12208:tid 1180] [client ::1:60834] AH01797: client denied by server configuration: C:/Users/YMS/Desktop/UT/Homework/SPRING 2018/INF385T/DokuWikiStick/dokuwiki/data/security.png, referer: http://localhost:8800/doku.php?id=start&do=admin
+[Thu Feb 22 01:45:57.130372 2018] [access_compat:error] [pid 12208:tid 1180] [client ::1:60834] AH01797: client denied by server configuration: C:/Users/YMS/Desktop/UT/Homework/SPRING 2018/INF385T/DokuWikiStick/dokuwiki/data/security.png, referer: http://localhost:8800/doku.php?id=start&do=admin
+[Thu Feb 22 01:48:24.455094 2018] [core:warn] [pid 11840:tid 536] AH00098: pid file C:/Users/YMS/Desktop/UT/Homework/SPRING 2018/INF385T/DokuWikiStick/server/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Feb 22 01:48:24.486197 2018] [mpm_winnt:notice] [pid 11840:tid 536] AH00455: Apache/2.4.25 (Win32) PHP/5.6.30 configured -- resuming normal operations
+[Thu Feb 22 01:48:24.486197 2018] [mpm_winnt:notice] [pid 11840:tid 536] AH00456: Apache Lounge VC11 Server built: Dec 20 2016 13:02:04
+[Thu Feb 22 01:48:24.486197 2018] [core:notice] [pid 11840:tid 536] AH00094: Command line: 'mapache.exe -d C:/Users/YMS/Desktop/UT/Homework/SPRING 2018/INF385T/DokuWikiStick/server'
+[Thu Feb 22 01:48:24.537338 2018] [mpm_winnt:notice] [pid 11840:tid 536] AH00418: Parent: Created child process 6820
+[Thu Feb 22 01:48:24.868710 2018] [mpm_winnt:notice] [pid 6820:tid 716] AH00354: Child: Starting 64 worker threads.
+[Thu Feb 22 19:51:34.141605 2018] [core:warn] [pid 7820:tid 248] AH00098: pid file C:/Users/YMS/Desktop/INF385T/DokuWikiStick/server/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Feb 22 19:51:34.188485 2018] [mpm_winnt:notice] [pid 7820:tid 248] AH00455: Apache/2.4.25 (Win32) PHP/5.6.30 configured -- resuming normal operations
+[Thu Feb 22 19:51:34.188485 2018] [mpm_winnt:notice] [pid 7820:tid 248] AH00456: Apache Lounge VC11 Server built: Dec 20 2016 13:02:04
+[Thu Feb 22 19:51:34.188485 2018] [core:notice] [pid 7820:tid 248] AH00094: Command line: 'mapache.exe -d C:/Users/YMS/Desktop/INF385T/DokuWikiStick/server'
+[Thu Feb 22 19:51:34.219739 2018] [mpm_winnt:notice] [pid 7820:tid 248] AH00418: Parent: Created child process 9908
+[Thu Feb 22 19:51:34.626061 2018] [mpm_winnt:notice] [pid 9908:tid 736] AH00354: Child: Starting 64 worker threads.
+[Thu Feb 22 20:06:51.987693 2018] [core:warn] [pid 11424:tid 652] AH00098: pid file C:/Users/YMS/Desktop/UT/Homework/SPRING 2018/Information Security/Project Draft/DokuWikiStick/server/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Feb 22 20:06:52.115742 2018] [mpm_winnt:notice] [pid 11424:tid 652] AH00455: Apache/2.4.25 (Win32) PHP/5.6.30 configured -- resuming normal operations
+[Thu Feb 22 20:06:52.115742 2018] [mpm_winnt:notice] [pid 11424:tid 652] AH00456: Apache Lounge VC11 Server built: Dec 20 2016 13:02:04
+[Thu Feb 22 20:06:52.115742 2018] [core:notice] [pid 11424:tid 652] AH00094: Command line: 'mapache.exe -d C:/Users/YMS/Desktop/UT/Homework/SPRING 2018/Information Security/Project Draft/DokuWikiStick/server'
+[Thu Feb 22 20:06:52.255972 2018] [mpm_winnt:notice] [pid 11424:tid 652] AH00418: Parent: Created child process 12004
+[Thu Feb 22 20:06:54.452788 2018] [mpm_winnt:notice] [pid 12004:tid 684] AH00354: Child: Starting 64 worker threads.
+[Fri Feb 23 08:25:36.524640 2018] [core:warn] [pid 3676:tid 612] AH00098: pid file C:/Users/YMS/Desktop/UT/Homework/SPRING 2018/Information Security/Project Draft/DokuWikiStick/server/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Feb 23 08:25:36.555893 2018] [mpm_winnt:notice] [pid 3676:tid 612] AH00455: Apache/2.4.25 (Win32) PHP/5.6.30 configured -- resuming normal operations
+[Fri Feb 23 08:25:36.555893 2018] [mpm_winnt:notice] [pid 3676:tid 612] AH00456: Apache Lounge VC11 Server built: Dec 20 2016 13:02:04
+[Fri Feb 23 08:25:36.555893 2018] [core:notice] [pid 3676:tid 612] AH00094: Command line: 'mapache.exe -d C:/Users/YMS/Desktop/UT/Homework/SPRING 2018/Information Security/Project Draft/DokuWikiStick/server'
+[Fri Feb 23 08:25:36.587178 2018] [mpm_winnt:notice] [pid 3676:tid 612] AH00418: Parent: Created child process 9952
+[Fri Feb 23 08:25:36.930935 2018] [mpm_winnt:notice] [pid 9952:tid 760] AH00354: Child: Starting 64 worker threads.
+[Fri Feb 23 08:26:01.779794 2018] [access_compat:error] [pid 9952:tid 1188] [client ::1:52969] AH01797: client denied by server configuration: C:/Users/YMS/Desktop/UT/Homework/SPRING 2018/Information Security/Project Draft/DokuWikiStick/dokuwiki/data/security.png, referer: http://localhost:8800/doku.php?id=start&do=admin
+[Fri Feb 23 08:26:13.573917 2018] [access_compat:error] [pid 9952:tid 1192] [client ::1:52970] AH01797: client denied by server configuration: C:/Users/YMS/Desktop/UT/Homework/SPRING 2018/Information Security/Project Draft/DokuWikiStick/dokuwiki/data/security.png, referer: http://localhost:8800/doku.php?id=start&do=admin
+[Fri Feb 23 08:26:13.620795 2018] [access_compat:error] [pid 9952:tid 1192] [client ::1:52970] AH01797: client denied by server configuration: C:/Users/YMS/Desktop/UT/Homework/SPRING 2018/Information Security/Project Draft/DokuWikiStick/dokuwiki/data/security.png, referer: http://localhost:8800/doku.php?id=start&do=admin
+[Fri Feb 23 08:55:05.734216 2018] [core:warn] [pid 6484:tid 328] AH00098: pid file C:/Users/YMS/Desktop/UT/Homework/SPRING 2018/Information Security/Project Draft/DokuWikiStick/server/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Feb 23 08:55:05.830305 2018] [mpm_winnt:notice] [pid 6484:tid 328] AH00455: Apache/2.4.25 (Win32) PHP/5.6.30 configured -- resuming normal operations
+[Fri Feb 23 08:55:05.830305 2018] [mpm_winnt:notice] [pid 6484:tid 328] AH00456: Apache Lounge VC11 Server built: Dec 20 2016 13:02:04
+[Fri Feb 23 08:55:05.830305 2018] [core:notice] [pid 6484:tid 328] AH00094: Command line: 'mapache.exe -d C:/Users/YMS/Desktop/UT/Homework/SPRING 2018/Information Security/Project Draft/DokuWikiStick/server'
+[Fri Feb 23 08:55:05.937122 2018] [mpm_winnt:notice] [pid 6484:tid 328] AH00418: Parent: Created child process 5764
+[Fri Feb 23 08:55:07.536332 2018] [mpm_winnt:notice] [pid 5764:tid 4] AH00354: Child: Starting 64 worker threads.
+[Fri Feb 23 09:17:35.835339 2018] [core:warn] [pid 4884:tid 632] AH00098: pid file C:/Users/YMS/Desktop/UT/Homework/SPRING 2018/Information Security/Project Draft/DokuWikiStick/server/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Feb 23 09:17:35.882465 2018] [mpm_winnt:notice] [pid 4884:tid 632] AH00455: Apache/2.4.25 (Win32) PHP/5.6.30 configured -- resuming normal operations
+[Fri Feb 23 09:17:35.882465 2018] [mpm_winnt:notice] [pid 4884:tid 632] AH00456: Apache Lounge VC11 Server built: Dec 20 2016 13:02:04
+[Fri Feb 23 09:17:35.882465 2018] [core:notice] [pid 4884:tid 632] AH00094: Command line: 'mapache.exe -d C:/Users/YMS/Desktop/UT/Homework/SPRING 2018/Information Security/Project Draft/DokuWikiStick/server'
+[Fri Feb 23 09:17:35.929395 2018] [mpm_winnt:notice] [pid 4884:tid 632] AH00418: Parent: Created child process 7208
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 7208:tid 688] AH00354: Child: Starting 64 worker threads.
+[Sat Feb 24 14:52:04.603863 2018] [mpm_winnt:notice] [pid 4884:tid 632] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sat Feb 24 14:52:06.621341 2018] [mpm_winnt:notice] [pid 7208:tid 688] AH00364: Child: All worker threads have exited.
+[Sat Feb 24 14:52:06.672439 2018] [mpm_winnt:notice] [pid 4884:tid 632] AH00430: Parent: Child process 7208 exited successfully.
+[Wed Feb 28 16:27:18.104022 2018] [mpm_winnt:notice] [pid 13264:tid 664] AH00455: Apache/2.4.25 (Win32) PHP/5.6.30 configured -- resuming normal operations
+[Wed Feb 28 16:27:18.104022 2018] [mpm_winnt:notice] [pid 13264:tid 664] AH00456: Apache Lounge VC11 Server built: Dec 20 2016 13:02:04
+[Wed Feb 28 16:27:18.104022 2018] [core:notice] [pid 13264:tid 664] AH00094: Command line: 'mapache.exe -d C:/Users/YMS/Desktop/UT/Homework/SPRING 2018/Information Security/Project Draft/DokuWikiStick/server'
+[Wed Feb 28 16:27:18.155158 2018] [mpm_winnt:notice] [pid 13264:tid 664] AH00418: Parent: Created child process 352
+[Wed Feb 28 16:27:18.742750 2018] [mpm_winnt:notice] [pid 352:tid 672] AH00354: Child: Starting 64 worker threads.
+[Wed Feb 28 18:05:54.505862 2018] [access_compat:error] [pid 352:tid 792] [client ::1:53194] AH01797: client denied by server configuration: C:/Users/YMS/Desktop/UT/Homework/SPRING 2018/Information Security/Project Draft/DokuWikiStick/dokuwiki/data/security.png, referer: http://localhost:8800/doku.php?id=start&do=admin
+[Wed Feb 28 18:10:02.515853 2018] [core:warn] [pid 10364:tid 596] AH00098: pid file C:/Users/YMS/Desktop/UT/Homework/SPRING 2018/Information Security/Project Draft/DokuWikiStick/server/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Feb 28 18:10:02.574013 2018] [mpm_winnt:notice] [pid 10364:tid 596] AH00455: Apache/2.4.25 (Win32) PHP/5.6.30 configured -- resuming normal operations
+[Wed Feb 28 18:10:02.575148 2018] [mpm_winnt:notice] [pid 10364:tid 596] AH00456: Apache Lounge VC11 Server built: Dec 20 2016 13:02:04
+[Wed Feb 28 18:10:02.575148 2018] [core:notice] [pid 10364:tid 596] AH00094: Command line: 'mapache.exe -d C:/Users/YMS/Desktop/UT/Homework/SPRING 2018/Information Security/Project Draft/DokuWikiStick/server'
+[Wed Feb 28 18:10:02.665465 2018] [mpm_winnt:notice] [pid 10364:tid 596] AH00418: Parent: Created child process 12320
+[Wed Feb 28 18:10:03.146797 2018] [mpm_winnt:notice] [pid 12320:tid 684] AH00354: Child: Starting 64 worker threads.
+[Wed Feb 28 18:10:42.912029 2018] [access_compat:error] [pid 12320:tid 1212] [client ::1:53248] AH01797: client denied by server configuration: C:/Users/YMS/Desktop/UT/Homework/SPRING 2018/Information Security/Project Draft/DokuWikiStick/dokuwiki/data/security.png, referer: http://localhost:8800/doku.php?id=start&do=admin
+[Wed Feb 28 18:10:42.989233 2018] [access_compat:error] [pid 12320:tid 1208] [client ::1:53249] AH01797: client denied by server configuration: C:/Users/YMS/Desktop/UT/Homework/SPRING 2018/Information Security/Project Draft/DokuWikiStick/dokuwiki/data/security.png, referer: http://localhost:8800/doku.php?id=start&do=admin
+[Wed Feb 28 18:29:45.778483 2018] [access_compat:error] [pid 12320:tid 1160] [client ::1:53375] AH01797: client denied by server configuration: C:/Users/YMS/Desktop/UT/Homework/SPRING 2018/Information Security/Project Draft/DokuWikiStick/dokuwiki/data/security.png, referer: http://localhost:8800/doku.php?id=start&do=admin
+[Wed Feb 28 18:29:45.875741 2018] [access_compat:error] [pid 12320:tid 1160] [client ::1:53375] AH01797: client denied by server configuration: C:/Users/YMS/Desktop/UT/Homework/SPRING 2018/Information Security/Project Draft/DokuWikiStick/dokuwiki/data/security.png, referer: http://localhost:8800/doku.php?id=start&do=admin
+[Wed Feb 28 18:37:18.966256 2018] [access_compat:error] [pid 12320:tid 1180] [client ::1:53534] AH01797: client denied by server configuration: C:/Users/YMS/Desktop/UT/Homework/SPRING 2018/Information Security/Project Draft/DokuWikiStick/dokuwiki/data/security.png, referer: http://localhost:8800/doku.php?id=wiki:dokuwiki&do=admin
+[Wed Feb 28 18:38:27.074195 2018] [access_compat:error] [pid 12320:tid 1180] [client ::1:53539] AH01797: client denied by server configuration: C:/Users/YMS/Desktop/UT/Homework/SPRING 2018/Information Security/Project Draft/DokuWikiStick/dokuwiki/data/security.png, referer: http://localhost:8800/doku.php?id=wiki:dokuwiki&do=admin
+[Wed Feb 28 18:38:27.149397 2018] [access_compat:error] [pid 12320:tid 1180] [client ::1:53539] AH01797: client denied by server configuration: C:/Users/YMS/Desktop/UT/Homework/SPRING 2018/Information Security/Project Draft/DokuWikiStick/dokuwiki/data/security.png, referer: http://localhost:8800/doku.php?id=wiki:dokuwiki&do=admin
+[Wed Feb 28 18:44:01.279482 2018] [access_compat:error] [pid 12320:tid 1208] [client ::1:53626] AH01797: client denied by server configuration: C:/Users/YMS/Desktop/UT/Homework/SPRING 2018/Information Security/Project Draft/DokuWikiStick/dokuwiki/data/security.png, referer: http://localhost:8800/doku.php?id=start&do=admin
+[Wed Feb 28 18:44:01.367709 2018] [access_compat:error] [pid 12320:tid 1208] [client ::1:53626] AH01797: client denied by server configuration: C:/Users/YMS/Desktop/UT/Homework/SPRING 2018/Information Security/Project Draft/DokuWikiStick/dokuwiki/data/security.png, referer: http://localhost:8800/doku.php?id=start&do=admin
+[Wed Feb 28 18:47:31.748126 2018] [core:warn] [pid 7560:tid 596] AH00098: pid file C:/Users/YMS/Desktop/UT/Homework/SPRING 2018/Information Security/Project Draft/DokuWikiStick/server/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Feb 28 18:47:31.787203 2018] [mpm_winnt:notice] [pid 7560:tid 596] AH00455: Apache/2.4.25 (Win32) PHP/5.6.30 configured -- resuming normal operations
+[Wed Feb 28 18:47:31.787203 2018] [mpm_winnt:notice] [pid 7560:tid 596] AH00456: Apache Lounge VC11 Server built: Dec 20 2016 13:02:04
+[Wed Feb 28 18:47:31.787203 2018] [core:notice] [pid 7560:tid 596] AH00094: Command line: 'mapache.exe -d C:/Users/YMS/Desktop/UT/Homework/SPRING 2018/Information Security/Project Draft/DokuWikiStick/server'
+[Wed Feb 28 18:47:31.833325 2018] [mpm_winnt:notice] [pid 7560:tid 596] AH00418: Parent: Created child process 9452
+[Wed Feb 28 18:47:32.359724 2018] [mpm_winnt:notice] [pid 9452:tid 696] AH00354: Child: Starting 64 worker threads.
+[Wed Feb 28 18:48:03.113695 2018] [access_compat:error] [pid 9452:tid 1184] [client ::1:53681] AH01797: client denied by server configuration: C:/Users/YMS/Desktop/UT/Homework/SPRING 2018/Information Security/Project Draft/DokuWikiStick/dokuwiki/data/security.png, referer: http://localhost:8800/doku.php?id=start&do=admin
+[Wed Feb 28 18:48:03.322249 2018] [access_compat:error] [pid 9452:tid 1184] [client ::1:53681] AH01797: client denied by server configuration: C:/Users/YMS/Desktop/UT/Homework/SPRING 2018/Information Security/Project Draft/DokuWikiStick/dokuwiki/data/security.png, referer: http://localhost:8800/doku.php?id=start&do=admin
+[Wed Feb 28 18:49:04.079810 2018] [access_compat:error] [pid 9452:tid 1192] [client ::1:53712] AH01797: client denied by server configuration: C:/Users/YMS/Desktop/UT/Homework/SPRING 2018/Information Security/Project Draft/DokuWikiStick/dokuwiki/data/security.png, referer: http://localhost:8800/doku.php?id=social_engineering&do=admin
+[Wed Feb 28 18:49:04.108889 2018] [access_compat:error] [pid 9452:tid 1184] [client ::1:53713] AH01797: client denied by server configuration: C:/Users/YMS/Desktop/UT/Homework/SPRING 2018/Information Security/Project Draft/DokuWikiStick/dokuwiki/data/security.png, referer: http://localhost:8800/doku.php?id=social_engineering&do=admin
+[Wed Feb 28 18:49:54.615284 2018] [access_compat:error] [pid 9452:tid 1156] [client ::1:53724] AH01797: client denied by server configuration: C:/Users/YMS/Desktop/UT/Homework/SPRING 2018/Information Security/Project Draft/DokuWikiStick/dokuwiki/data/security.png, referer: http://localhost:8800/doku.php?id=social_engineering&do=admin
+[Thu Mar 01 19:37:16.543126 2018] [core:warn] [pid 3080:tid 612] AH00098: pid file C:/Users/YMS/Desktop/UT/Homework/SPRING 2018/Information Security/Project Draft/DokuWikiStick/server/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Mar 01 19:37:16.589255 2018] [mpm_winnt:notice] [pid 3080:tid 612] AH00455: Apache/2.4.25 (Win32) PHP/5.6.30 configured -- resuming normal operations
+[Thu Mar 01 19:37:16.589255 2018] [mpm_winnt:notice] [pid 3080:tid 612] AH00456: Apache Lounge VC11 Server built: Dec 20 2016 13:02:04
+[Thu Mar 01 19:37:16.589255 2018] [core:notice] [pid 3080:tid 612] AH00094: Command line: 'mapache.exe -d C:/Users/YMS/Desktop/UT/Homework/SPRING 2018/Information Security/Project Draft/DokuWikiStick/server'
+[Thu Mar 01 19:37:16.637345 2018] [mpm_winnt:notice] [pid 3080:tid 612] AH00418: Parent: Created child process 9472
+[Thu Mar 01 19:37:17.177781 2018] [mpm_winnt:notice] [pid 9472:tid 680] AH00354: Child: Starting 64 worker threads.
+[Thu Mar 01 20:05:14.545584 2018] [core:warn] [pid 6184:tid 616] AH00098: pid file C:/Users/YMS/Desktop/UT/Homework/SPRING 2018/Information Security/Project Draft/DokuWikiStick/server/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Mar 01 20:05:14.966697 2018] [mpm_winnt:notice] [pid 6184:tid 616] AH00455: Apache/2.4.25 (Win32) PHP/5.6.30 configured -- resuming normal operations
+[Thu Mar 01 20:05:14.966697 2018] [mpm_winnt:notice] [pid 6184:tid 616] AH00456: Apache Lounge VC11 Server built: Dec 20 2016 13:02:04
+[Thu Mar 01 20:05:14.966697 2018] [core:notice] [pid 6184:tid 616] AH00094: Command line: 'mapache.exe -d C:/Users/YMS/Desktop/UT/Homework/SPRING 2018/Information Security/Project Draft/DokuWikiStick/server'
+[Thu Mar 01 20:05:15.022851 2018] [mpm_winnt:notice] [pid 6184:tid 616] AH00418: Parent: Created child process 9116
+[Thu Mar 01 20:05:15.596374 2018] [mpm_winnt:notice] [pid 9116:tid 632] AH00354: Child: Starting 64 worker threads.
+[Fri Mar 02 05:43:28.404120 2018] [core:warn] [pid 7428:tid 572] AH00098: pid file C:/Users/YMS/Desktop/UT/Homework/SPRING 2018/Information Security/Project Draft/DokuWikiStick/server/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Mar 02 05:43:28.444226 2018] [mpm_winnt:notice] [pid 7428:tid 572] AH00455: Apache/2.4.25 (Win32) PHP/5.6.30 configured -- resuming normal operations
+[Fri Mar 02 05:43:28.444226 2018] [mpm_winnt:notice] [pid 7428:tid 572] AH00456: Apache Lounge VC11 Server built: Dec 20 2016 13:02:04
+[Fri Mar 02 05:43:28.444226 2018] [core:notice] [pid 7428:tid 572] AH00094: Command line: 'mapache.exe -d C:/Users/YMS/Desktop/UT/Homework/SPRING 2018/Information Security/Project Draft/DokuWikiStick/server'
+[Fri Mar 02 05:43:28.489346 2018] [mpm_winnt:notice] [pid 7428:tid 572] AH00418: Parent: Created child process 14332
+[Fri Mar 02 05:43:28.956627 2018] [mpm_winnt:notice] [pid 14332:tid 716] AH00354: Child: Starting 64 worker threads.
+[Fri Mar 02 05:50:36.272649 2018] [core:warn] [pid 10816:tid 660] AH00098: pid file C:/Users/YMS/Desktop/UT/Homework/SPRING 2018/INF385T/DokuWikiStick/server/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Mar 02 05:50:36.303904 2018] [mpm_winnt:notice] [pid 10816:tid 660] AH00455: Apache/2.4.25 (Win32) PHP/5.6.30 configured -- resuming normal operations
+[Fri Mar 02 05:50:36.303904 2018] [mpm_winnt:notice] [pid 10816:tid 660] AH00456: Apache Lounge VC11 Server built: Dec 20 2016 13:02:04
+[Fri Mar 02 05:50:36.303904 2018] [core:notice] [pid 10816:tid 660] AH00094: Command line: 'mapache.exe -d C:/Users/YMS/Desktop/UT/Homework/SPRING 2018/INF385T/DokuWikiStick/server'
+[Fri Mar 02 05:50:36.350796 2018] [mpm_winnt:notice] [pid 10816:tid 660] AH00418: Parent: Created child process 7068
+[Fri Mar 02 05:50:36.850858 2018] [mpm_winnt:notice] [pid 7068:tid 660] AH00354: Child: Starting 64 worker threads.
+[Fri Mar 02 08:42:43.654581 2018] [core:warn] [pid 7824:tid 628] AH00098: pid file C:/Users/YMS/Desktop/UT/Homework/SPRING 2018/INF385T/DokuWikiStick/server/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Mar 02 08:42:43.904631 2018] [mpm_winnt:notice] [pid 7824:tid 628] AH00455: Apache/2.4.25 (Win32) PHP/5.6.30 configured -- resuming normal operations
+[Fri Mar 02 08:42:43.904631 2018] [mpm_winnt:notice] [pid 7824:tid 628] AH00456: Apache Lounge VC11 Server built: Dec 20 2016 13:02:04
+[Fri Mar 02 08:42:43.904631 2018] [core:notice] [pid 7824:tid 628] AH00094: Command line: 'mapache.exe -d C:/Users/YMS/Desktop/UT/Homework/SPRING 2018/INF385T/DokuWikiStick/server'
+[Fri Mar 02 08:42:43.935872 2018] [mpm_winnt:notice] [pid 7824:tid 628] AH00418: Parent: Created child process 5288
+[Fri Mar 02 08:42:44.357825 2018] [mpm_winnt:notice] [pid 5288:tid 612] AH00354: Child: Starting 64 worker threads.
+[Thu May 03 23:51:00.735218 2018] [core:warn] [pid 8196:tid 608] AH00098: pid file C:/Users/YMS/Desktop/UT/Homework/SPRING 2018/INF385T/DokuWikiStick/server/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu May 03 23:51:01.035660 2018] [mpm_winnt:notice] [pid 8196:tid 608] AH00455: Apache/2.4.25 (Win32) PHP/5.6.30 configured -- resuming normal operations
+[Thu May 03 23:51:01.035660 2018] [mpm_winnt:notice] [pid 8196:tid 608] AH00456: Apache Lounge VC11 Server built: Dec 20 2016 13:02:04
+[Thu May 03 23:51:01.035660 2018] [core:notice] [pid 8196:tid 608] AH00094: Command line: 'mapache.exe -d C:/Users/YMS/Desktop/UT/Homework/SPRING 2018/INF385T/DokuWikiStick/server'
+[Thu May 03 23:51:01.038666 2018] [mpm_winnt:notice] [pid 8196:tid 608] AH00418: Parent: Created child process 2724
+[Thu May 03 23:51:01.360149 2018] [mpm_winnt:notice] [pid 2724:tid 676] AH00354: Child: Starting 64 worker threads.
+[Fri May 04 02:11:29.711456 2018] [core:warn] [pid 5180:tid 604] AH00098: pid file C:/Users/YMS/Desktop/UT/Homework/SPRING 2018/INF385T/DokuWikiStick/server/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri May 04 02:11:29.743042 2018] [mpm_winnt:notice] [pid 5180:tid 604] AH00455: Apache/2.4.25 (Win32) PHP/5.6.30 configured -- resuming normal operations
+[Fri May 04 02:11:29.743042 2018] [mpm_winnt:notice] [pid 5180:tid 604] AH00456: Apache Lounge VC11 Server built: Dec 20 2016 13:02:04
+[Fri May 04 02:11:29.743042 2018] [core:notice] [pid 5180:tid 604] AH00094: Command line: 'mapache.exe -d C:/Users/YMS/Desktop/UT/Homework/SPRING 2018/INF385T/DokuWikiStick/server'
+[Fri May 04 02:11:29.745047 2018] [mpm_winnt:notice] [pid 5180:tid 604] AH00418: Parent: Created child process 7656
+[Fri May 04 02:11:30.079976 2018] [mpm_winnt:notice] [pid 7656:tid 712] AH00354: Child: Starting 64 worker threads.
+[Fri May 04 03:49:33.340105 2018] [access_compat:error] [pid 7656:tid 1148] [client ::1:52749] AH01797: client denied by server configuration: C:/Users/YMS/Desktop/UT/Homework/SPRING 2018/INF385T/DokuWikiStick/dokuwiki/data/security.png, referer: http://localhost:8800/doku.php?id=start&do=admin
+[Fri May 04 03:50:14.244627 2018] [access_compat:error] [pid 7656:tid 1164] [client ::1:52753] AH01797: client denied by server configuration: C:/Users/YMS/Desktop/UT/Homework/SPRING 2018/INF385T/DokuWikiStick/dokuwiki/data/security.png, referer: http://localhost:8800/doku.php?id=start&do=admin
+[Fri May 04 04:09:49.669348 2018] [access_compat:error] [pid 7656:tid 1148] [client ::1:52914] AH01797: client denied by server configuration: C:/Users/YMS/Desktop/UT/Homework/SPRING 2018/INF385T/DokuWikiStick/dokuwiki/data/security.png, referer: http://localhost:8800/doku.php?id=phishing&do=admin
+[Fri May 04 04:09:49.765520 2018] [access_compat:error] [pid 7656:tid 1172] [client ::1:52913] AH01797: client denied by server configuration: C:/Users/YMS/Desktop/UT/Homework/SPRING 2018/INF385T/DokuWikiStick/dokuwiki/data/security.png, referer: http://localhost:8800/doku.php?id=phishing&do=admin
+[Fri May 04 04:13:38.993737 2018] [core:warn] [pid 2544:tid 236] AH00098: pid file C:/Users/YMS/Desktop/UT/Homework/SPRING 2018/INF385T/DokuWikiStick/server/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri May 04 04:13:39.022780 2018] [mpm_winnt:notice] [pid 2544:tid 236] AH00455: Apache/2.4.25 (Win32) PHP/5.6.30 configured -- resuming normal operations
+[Fri May 04 04:13:39.022780 2018] [mpm_winnt:notice] [pid 2544:tid 236] AH00456: Apache Lounge VC11 Server built: Dec 20 2016 13:02:04
+[Fri May 04 04:13:39.022780 2018] [core:notice] [pid 2544:tid 236] AH00094: Command line: 'mapache.exe -d C:/Users/YMS/Desktop/UT/Homework/SPRING 2018/INF385T/DokuWikiStick/server'
+[Fri May 04 04:13:39.023781 2018] [mpm_winnt:notice] [pid 2544:tid 236] AH00418: Parent: Created child process 6504
+[Fri May 04 04:13:39.341454 2018] [mpm_winnt:notice] [pid 6504:tid 644] AH00354: Child: Starting 64 worker threads.
+[Fri May 04 04:18:17.781443 2018] [access_compat:error] [pid 6504:tid 1180] [client ::1:53030] AH01797: client denied by server configuration: C:/Users/YMS/Desktop/UT/Homework/SPRING 2018/INF385T/DokuWikiStick/dokuwiki/data/security.png, referer: http://localhost:8800/doku.php?id=phishing&do=admin
+[Fri May 04 04:18:18.007755 2018] [access_compat:error] [pid 6504:tid 1180] [client ::1:53030] AH01797: client denied by server configuration: C:/Users/YMS/Desktop/UT/Homework/SPRING 2018/INF385T/DokuWikiStick/dokuwiki/data/security.png, referer: http://localhost:8800/doku.php?id=phishing&do=admin
+[Fri May 04 04:23:04.287125 2018] [access_compat:error] [pid 6504:tid 1140] [client ::1:53141] AH01797: client denied by server configuration: C:/Users/YMS/Desktop/UT/Homework/SPRING 2018/INF385T/DokuWikiStick/dokuwiki/data/security.png, referer: http://localhost:8800/doku.php?id=phishing&do=admin
+[Fri May 04 04:23:04.745992 2018] [access_compat:error] [pid 6504:tid 1140] [client ::1:53142] AH01797: client denied by server configuration: C:/Users/YMS/Desktop/UT/Homework/SPRING 2018/INF385T/DokuWikiStick/dokuwiki/data/security.png, referer: http://localhost:8800/doku.php?id=phishing&do=admin
+[Fri May 04 04:58:58.496024 2018] [access_compat:error] [pid 6504:tid 1180] [client ::1:53361] AH01797: client denied by server configuration: C:/Users/YMS/Desktop/UT/Homework/SPRING 2018/INF385T/DokuWikiStick/dokuwiki/data/security.png, referer: http://localhost:8800/doku.php?id=phishing&do=admin
+[Fri May 04 04:58:58.571164 2018] [access_compat:error] [pid 6504:tid 1180] [client ::1:53361] AH01797: client denied by server configuration: C:/Users/YMS/Desktop/UT/Homework/SPRING 2018/INF385T/DokuWikiStick/dokuwiki/data/security.png, referer: http://localhost:8800/doku.php?id=phishing&do=admin
+[Fri May 04 06:25:56.704854 2018] [access_compat:error] [pid 6504:tid 1188] [client ::1:53824] AH01797: client denied by server configuration: C:/Users/YMS/Desktop/UT/Homework/SPRING 2018/INF385T/DokuWikiStick/dokuwiki/data/security.png, referer: http://localhost:8800/doku.php?id=phishing&do=admin
+[Fri May 04 06:25:56.800616 2018] [access_compat:error] [pid 6504:tid 1188] [client ::1:53824] AH01797: client denied by server configuration: C:/Users/YMS/Desktop/UT/Homework/SPRING 2018/INF385T/DokuWikiStick/dokuwiki/data/security.png, referer: http://localhost:8800/doku.php?id=phishing&do=admin
+[Fri May 04 08:15:51.602526 2018] [core:warn] [pid 2528:tid 624] AH00098: pid file C:/Users/YMS/Desktop/UT/Homework/SPRING 2018/INF385T/DokuWikiStick/server/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri May 04 08:15:51.634615 2018] [mpm_winnt:notice] [pid 2528:tid 624] AH00455: Apache/2.4.25 (Win32) PHP/5.6.30 configured -- resuming normal operations
+[Fri May 04 08:15:51.634615 2018] [mpm_winnt:notice] [pid 2528:tid 624] AH00456: Apache Lounge VC11 Server built: Dec 20 2016 13:02:04
+[Fri May 04 08:15:51.634615 2018] [core:notice] [pid 2528:tid 624] AH00094: Command line: 'mapache.exe -d C:/Users/YMS/Desktop/UT/Homework/SPRING 2018/INF385T/DokuWikiStick/server'
+[Fri May 04 08:15:51.636619 2018] [mpm_winnt:notice] [pid 2528:tid 624] AH00418: Parent: Created child process 9176
+[Fri May 04 08:15:51.953502 2018] [mpm_winnt:notice] [pid 9176:tid 712] AH00354: Child: Starting 64 worker threads.
+[Fri May 04 18:42:13.571710 2018] [core:warn] [pid 3092:tid 192] AH00098: pid file C:/Users/YMS/Desktop/UT/Homework/SPRING 2018/INF385T/DokuWikiStick/server/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri May 04 18:42:13.609815 2018] [mpm_winnt:notice] [pid 3092:tid 192] AH00455: Apache/2.4.25 (Win32) PHP/5.6.30 configured -- resuming normal operations
+[Fri May 04 18:42:13.609815 2018] [mpm_winnt:notice] [pid 3092:tid 192] AH00456: Apache Lounge VC11 Server built: Dec 20 2016 13:02:04
+[Fri May 04 18:42:13.609815 2018] [core:notice] [pid 3092:tid 192] AH00094: Command line: 'mapache.exe -d C:/Users/YMS/Desktop/UT/Homework/SPRING 2018/INF385T/DokuWikiStick/server'
+[Fri May 04 18:42:13.611319 2018] [mpm_winnt:notice] [pid 3092:tid 192] AH00418: Parent: Created child process 8988
+[Fri May 04 18:42:13.951012 2018] [mpm_winnt:notice] [pid 8988:tid 712] AH00354: Child: Starting 64 worker threads.
+[Fri May 04 20:24:48.447744 2018] [core:warn] [pid 2528:tid 592] AH00098: pid file C:/Users/YMS/Desktop/UT/Homework/SPRING 2018/INF385T/DokuWikiStick/server/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri May 04 20:24:48.704447 2018] [mpm_winnt:notice] [pid 2528:tid 592] AH00455: Apache/2.4.25 (Win32) PHP/5.6.30 configured -- resuming normal operations
+[Fri May 04 20:24:48.704946 2018] [mpm_winnt:notice] [pid 2528:tid 592] AH00456: Apache Lounge VC11 Server built: Dec 20 2016 13:02:04
+[Fri May 04 20:24:48.704946 2018] [core:notice] [pid 2528:tid 592] AH00094: Command line: 'mapache.exe -d C:/Users/YMS/Desktop/UT/Homework/SPRING 2018/INF385T/DokuWikiStick/server'
+[Fri May 04 20:24:48.707954 2018] [mpm_winnt:notice] [pid 2528:tid 592] AH00418: Parent: Created child process 10728
+[Fri May 04 20:24:49.026323 2018] [mpm_winnt:notice] [pid 10728:tid 672] AH00354: Child: Starting 64 worker threads.
