@@ -184,3 +184,9 @@ pm_winnt:notice] [pid 7208:tid 688] AH00354: Child: Starting 64 worker threads.
 [Fri May 04 20:24:48.704946 2018] [core:notice] [pid 2528:tid 592] AH00094: Command line: 'mapache.exe -d C:/Users/YMS/Desktop/UT/Homework/SPRING 2018/INF385T/DokuWikiStick/server'
 [Fri May 04 20:24:48.707954 2018] [mpm_winnt:notice] [pid 2528:tid 592] AH00418: Parent: Created child process 10728
 [Fri May 04 20:24:49.026323 2018] [mpm_winnt:notice] [pid 10728:tid 672] AH00354: Child: Starting 64 worker threads.
+[Fri May 04 20:37:58.333396 2018] [core:warn] [pid 10140:tid 664] AH00098: pid file C:/Users/YMS/Desktop/UT/Homework/SPRING 2018/INF385T/inf385t-final-project/DokuWikiStick/server/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri May 04 20:37:58.366988 2018] [mpm_winnt:notice] [pid 10140:tid 664] AH00455: Apache/2.4.25 (Win32) PHP/5.6.30 configured -- resuming normal operations
+[Fri May 04 20:37:58.366988 2018] [mpm_winnt:notice] [pid 10140:tid 664] AH00456: Apache Lounge VC11 Server built: Dec 20 2016 13:02:04
+[Fri May 04 20:37:58.366988 2018] [core:notice] [pid 10140:tid 664] AH00094: Command line: 'mapache.exe -d C:/Users/YMS/Desktop/UT/Homework/SPRING 2018/INF385T/inf385t-final-project/DokuWikiStick/server'
+[Fri May 04 20:37:58.462248 2018] [mpm_winnt:notice] [pid 10140:tid 664] AH00418: Parent: Created child process 3080
+[Fri May 04 20:37:58.767081 2018] [mpm_winnt:notice] [pid 3080:tid 656] AH00354: Child: Starting 64 worker threads.
